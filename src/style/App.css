@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+*{
+  margin:0;
+  padding:0;
+  background:#283747;
+}
+#quote-box {
+    width: 35%;
+    height: 30vh;
+    margin:auto;
+    padding: 2%;
+    border-radius: 12px;
+    background-color: #D0D3D4 ;
+}
+#text{
+  background-color: #D0D3D4 ;
+  font-family: 'Poppins', sans-serif;
+}
+#author{
+  background-color: #D0D3D4 ;
+  font-family: 'Poppins', sans-serif;
+  text-align:end;
+}
+.actions{
+  background-color: #D0D3D4 ;
+}
+#new-quote{
+  margin:5%;
+  width:25%;
+  border-radius:5px;
+  border:2px solid #D0D3D4;
+  background:white;
+  padding:1%;
+  color:#283747;
+  font-family: 'Poppins', sans-serif;
+  font-weight:bolder;
+}
+#tweet-quote{
+  background:#D0D3D4;
+  text-decoration:none;
+  font-family: 'Poppins', sans-serif;
+}
+.icono{
+    background:#D0D3D4 ;
+    color: blue;
+}
